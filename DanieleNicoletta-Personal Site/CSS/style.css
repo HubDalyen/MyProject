@@ -1,0 +1,134 @@
+.top-container {
+  background-color: #b4f2e1;
+  position: relative;
+  padding-top: 100px;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.profileImg {
+  margin-top: 50px;
+}
+
+p {
+  margin: 50px auto 25 auto;
+}
+
+h1 {
+  line-height: 2;
+  margin: 50px auto 0 auto;
+  font-family: 'Mr Dafoe', cursive;
+  font-weight: normal;
+  font-size: 5.625rem;
+  color: #66BFBF;
+}
+
+h2 {
+  margin: 2rem;
+  font-size: 2.5rem;
+  color: #66BFBF;
+}
+
+h3 {
+  color: #11999E;
+  font-weight: bolder;
+}
+
+hr {
+  color: #888888;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 8px;
+  width: 10%;
+  margin: 100px auto 100px auto;
+}
+
+a {
+  color: #11999E;
+  font-weight: bolder;
+}
+
+.profile {
+  width: 50%;
+  margin: auto;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  text-align: center;
+  line-height: 2;
+}
+
+.bottom-container {
+  margin: 0;
+  padding: 1rem;
+  background-color: #66BFBF;
+  color: #EAF6F6
+}
+
+.headsubtitle {
+  font-weight: normal;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.SkillGeneral {
+  float: left;
+  width: 25%;
+  margin-right: 30px;
+}
+
+.skillImg {
+  float: right;
+  width: 25%;
+  margin-left: 30px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: auto;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  text-align: left;
+  line-height: 2;
+}
+
+.button {
+  font-family: Verdana;
+  background-color: #11999E;
+  color: #FFFFFF;
+  border: 0;
+  border-radius: 10px;
+  font-size: 1rem;
+  font-weight: 100;
+  padding: 1rem;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+  margin: 50px auto 50px auto;
+}
+
+.button :hover {
+  background: #1E62D0;
+  border: solid #FFFFFF 1px;
+  border-radius: 20px;
+  text-decoration: none;
+}
+
+.footer-link {
+  margin: auto 50px auto 50px;
+  text-decoration: none;
+}
